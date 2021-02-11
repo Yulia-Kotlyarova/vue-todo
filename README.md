@@ -1,5 +1,7 @@
 # vue-todo
 
+[deploy link](https://kotlyarova-vue-todo.netlify.app/)
+
 ## Project setup
 ```
 npm install
